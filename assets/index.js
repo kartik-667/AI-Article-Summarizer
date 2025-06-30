@@ -4,6 +4,7 @@ import copy from './copy.svg'
 import logo from './logo.svg'
 import tick from './tick.svg'
 import enter from './enter.png'
+import clear from './clear.svg'
 
 export {
     linkIcon,
@@ -11,5 +12,6 @@ export {
     copy,
     logo,
     tick,
-    enter
+    enter,
+    clear
 }
